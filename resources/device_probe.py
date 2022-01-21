@@ -50,7 +50,7 @@ class PCIDevice:
 
         device = cls(vendor_id, device_id, int.from_bytes(properties["class-code"][:6], byteorder="little"), name=ioreg.io_name_t_to_str(ioreg.IORegistryEntryGetName(entry, None)[1]))
         if "model" in properties:
-            device.model = properties["model"].strip(b"\0").decode()
+            device.model = properties["model"]
         if "acpi-path" in properties:
             device.acpi_path = properties["acpi-path"]
         device.populate_pci_path(entry)
