@@ -38,7 +38,7 @@ To aid users in troubleshooting, we've compiled a list of users who've reported 
 | MacBookPro5,2 | ^^ | hvds | ^^ |
 | MacBookPro5,3 | ^^ | kommtzeitkonrad | - Stock model <br/>- Patcher version 0.0.22 |
 | MacBookPro5,4 | No reports | N/A | N/A |
-| MacBookPro5,5 | ^^ | ^^ | ^^ |
+| MacBookPro5,5 | Yes | marvel-fanboy58 | Upgraded HD to SSD, Labtick for keyboard backlight control, Patcher version 0.3.3 |
 | MacBookPro6,1 | ^^ | ^^ | ^^ |
 | MacBookPro6,2 | <span style="color:#30BCD5"> YES </span> | Jakeluke | - Stock model, dGPU broken <br/>- Patcher version unknown |
 | MacBookPro7,1 | ^^ | fussel132 | - Stock model <br/>-Patcher version v0.1.2 |
